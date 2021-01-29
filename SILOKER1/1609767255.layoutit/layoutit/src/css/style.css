@@ -1,0 +1,10 @@
+.footer {
+    padding: 20px 0;
+    background-color:#5ab7d6;
+    color: white;
+    margin-top: 100px;
+    text-align: center;
+}
+.col-md-6 img{
+    padding: 5px;
+}
